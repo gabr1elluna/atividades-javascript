@@ -5,4 +5,4 @@ let n4 = 17
 let media = (n1+n2+n3+n4)/4
 
 
-console.log()
+console.log(media)
